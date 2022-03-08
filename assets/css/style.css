@@ -905,9 +905,10 @@ p {
   line-height: 72px;
 }
 .doly__text {
-  margin-top: 50px;
-  font-size: 14px;
-  line-height: 25px;
+  margin-top: 100px;
+  font-size: 18px;
+  line-height: 30px;
+
 }
 .doly__img img {
   border-radius: 0 6px 6px 0;
@@ -1074,7 +1075,13 @@ p {
 .card-round .wishes-round {
   font-size: 16px;
 }
-
+.card-text  {
+  font-size:  18px;
+  font-weight:  600;
+}
+.wowbounceInRight{
+  font-weight:  600;
+}
 .girl {
   background-color: #fdd8f8;
   padding: 20px;
